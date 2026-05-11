@@ -129,15 +129,4 @@ npm run dev
 
 ---
 
-<div align="center">
 
-**Built by Tang Kit Loon**
-
-[![GitHub](https://img.shields.io/badge/GitHub-@YOUR__USERNAME-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-
-<br/>
-
-*MIT License · 2025*
-
-</div>
